@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "productName": "Transport GHP Insecticide",
+    "formulation": "WP",
+    "manufacturer": "FMC",
+    "activeIngredients": {
+      "acetamiprid": "22.73",
+      "bifenthrin": "27.27"
+    },
+    "mattressApplication": "Y",
+    "labelApplications": ["c+c", "spray", "spot", "paint brush", "pin"],
+    "labelRestrictions": [
+      "not broadcast",
+      "not sole treatment",
+      "no treat where skin contact"
+    ],
+    "epaRegisteredLabelClaims": [],
+    "otherReferencedProductAttributes": [],
+    "signalWord": "C",
+    "ppe": ["wp gloves"],
+    "specimenLabel": "yes",
+    "safetyDataSheet": "yes",
+    "labelDate": "08/04/2016",
+    "reference": 1
+  },
+  {
+    "id": 2,
+    "productName": "Transport Micron Insecticide",
+    "formulation": "EC",
+    "manufacturer": "FMC",
+    "activeIngredients": {
+      "acetamiprid": "5.00",
+      "bifenthrin": "6.00"
+    },
+    "mattressApplication": "Y",
+    "labelApplications": ["c+c", "spray", "spot", "paint brush", "pin"],
+    "labelRestrictions": [
+      "not broadcast",
+      "not sole treatment",
+      "no treat where skin contact"
+    ],
+    "epaRegisteredLabelClaims": [],
+    "otherReferencedProductAttributes": [],
+    "signalWord": "C",
+    "ppe": ["wp gloves"],
+    "specimenLabel": "yes",
+    "safetyDataSheet": "yes",
+    "labelDate": "08/04/2016",
+    "reference": 2
+  },
+  {
+    "id": 3,
+    "productName": "CB-80 Insecticide",
+    "formulation": "A",
+    "manufacturer": "FMC",
+    "activeIngredients": {
+      "pyrethrins": "0.50",
+      "pip but": "4.00"
+    },
+    "mattressApplication": "Y",
+    "labelApplications": ["cc", "spot"],
+    "labelRestrictions": ["no treat bedding or clothes", "no broadcast"],
+    "epaRegisteredLabelClaims": [],
+    "otherReferencedProductAttributes": [],
+    "signalWord": "C",
+    "ppe": ["long sleeve shirt"],
+    "specimenLabel": "yes",
+    "safetyDataSheet": "yes",
+    "labelDate": "08/01/2016",
+    "reference": 3
+  },
+  {
+    "id": 12,
+    "productName": "ActiveGuard Mattress Liner",
+    "formulation": "Active mattress liner",
+    "manufacturer": "Allergy Technologies",
+    "activeIngredients": {
+      "permethrin": "1.64"
+    },
+    "mattressApplication": "Y",
+    "labelApplications": ["application to bedding"],
+    "labelRestrictions": [
+      "place mattress pad or sheet on top of liner",
+      "do not wash liner"
+    ],
+    "epaRegisteredLabelClaims": [
+      "kills bed bugs up to 2 years",
+      "use as a preventative tool within an IPM program"
+    ],
+    "otherReferencedProductAttributes": {
+      "attributeDescription":
+        "10 min exposure results in sig reduction in bites and eggs in all strains (504)",
+      "reference": "",
+      "residualActivity": "kills up to 2 years (L) (491)"
+    },
+    "signalWord": "none",
+    "ppe": ["wash hands after installation"],
+    "specimenLabel": "yes",
+    "safetyDataSheet": "yes",
+    "labelDate": "2015",
+    "reference": 504
+  }
+]

@@ -1,2 +1,1 @@
-# bedbugproductdata
-Bed bug product data app
+# bedbugauthority.github.io

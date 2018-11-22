@@ -1,0 +1,167 @@
+[
+  {
+    "id": "productName",
+    "type": "string",
+    "disablePadding": true,
+    "textLabel": "Product Name",
+    "dataAppend": "",
+    "sortable": true,
+    "filterable": true,
+    "visible": true,
+    "width": 250
+  },
+  {
+    "id": "manufacturer",
+    "type": "string",
+    "disablePadding": true,
+    "textLabel": "Manufacturer",
+    "dataAppend": "",
+    "sortable": true,
+    "filterable": true,
+    "visible": true,
+    "width": 130
+  },
+  {
+    "id": "formulation",
+    "type": "string",
+    "disablePadding": true,
+    "textLabel": "Formulation",
+    "dataAppend": "",
+    "sortable": true,
+    "filterable": true,
+    "visible": true,
+    "width": 130
+  },
+  {
+    "id": "activeIngredients",
+    "type": "dictionary",
+    "disablePadding": true,
+    "textLabel": "Active Ingredients",
+    "dataAppend": " %",
+    "sortable": false,
+    "filterable": true,
+    "visible": true,
+    "width": 200
+  },
+  {
+    "id": "mattressApplication",
+    "type": "string",
+    "disablePadding": true,
+    "textLabel": "Mattress Application",
+    "dataAppend": "",
+    "sortable": true,
+    "filterable": true,
+    "visible": true,
+    "width": 100
+  },
+  {
+    "id": "labelApplications",
+    "type": "list",
+    "disablePadding": true,
+    "textLabel": "Label Applications",
+    "dataAppend": "",
+    "sortable": false,
+    "filterable": true,
+    "visible": true,
+    "width": 200
+  },
+  {
+    "id": "labelRestrictions",
+    "type": "list",
+    "disablePadding": true,
+    "textLabel": "Label Restrictions",
+    "dataAppend": "",
+    "sortable": false,
+    "filterable": true,
+    "visible": true,
+    "width": 200
+  },
+  {
+    "id": "epaRegisteredLabelClaims",
+    "type": "list",
+    "disablePadding": true,
+    "textLabel": "EPA Registered Label Claims",
+    "dataAppend": "",
+    "sortable": false,
+    "filterable": true,
+    "visible": true,
+    "width": 200
+  },
+  {
+    "id": "otherReferencedProductAttributes",
+    "type": "list_custom1",
+    "disablePadding": true,
+    "textLabel": "Other Referenced Product Attributes",
+    "dataAppend": "",
+    "sortable": false,
+    "filterable": false,
+    "visible": true,
+    "width": 200
+  },
+  {
+    "id": "signalWord",
+    "type": "string",
+    "disablePadding": true,
+    "textLabel": "Signal Word",
+    "dataAppend": "",
+    "sortable": true,
+    "filterable": true,
+    "visible": true,
+    "width": 100
+  },
+  {
+    "id": "ppe",
+    "type": "list",
+    "disablePadding": true,
+    "textLabel": "PPE",
+    "dataAppend": "",
+    "sortable": false,
+    "filterable": true,
+    "visible": true,
+    "width": 150
+  },
+  {
+    "id": "specimenLabel",
+    "type": "string",
+    "disablePadding": true,
+    "textLabel": "Specimen Label",
+    "dataAppend": "",
+    "sortable": true,
+    "filterable": true,
+    "visible": true,
+    "width": 100
+  },
+  {
+    "id": "safetyDataSheet",
+    "type": "string",
+    "disablePadding": true,
+    "textLabel": "Safety Data Sheet",
+    "dataAppend": "",
+    "sortable": true,
+    "filterable": true,
+    "visible": true,
+    "width": 100
+  },
+  {
+    "id": "labelDate",
+    "type": "date",
+    "disablePadding": true,
+    "textLabel": "Label Date",
+    "dataAppend": "",
+    "sortable": false,
+    "filterable": false,
+    "visible": true,
+    "width": 100
+  },
+  {
+    "id": "reference",
+    "type": "link",
+    "disablePadding": true,
+    "textLabel": "Reference",
+    "dataAppend": "",
+    "sortable": false,
+    "filterable": false,
+    "visible": true,
+    "width": 100
+  }
+]
