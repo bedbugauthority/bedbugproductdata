@@ -30,7 +30,7 @@
     "next": "^6.0.4-canary.3",
     "prop-types": "^15.6.0",
     "react": "^16.4.0",
-    "react-dom": "^16.4.0",
+    "react-dom": "^16.4.2",
     "react-jss": "^8.4.0",
     "react-to-print": "^1.0.10",
     "react-virtualized": "^9.20.1"
